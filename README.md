@@ -13,4 +13,4 @@ meses. Mesmo eu já tendo a base, esse evento foi muito útil, pois vai me ajuda
 
 Durante o evento foi desenvolvido um projeto de uma landing page, usando HTML, CSS e JavaScript.
 
-<h4><a href="https://lucasgabriell97.github.io/evento-mapadev-week/">Clique para visitar o projeto</a></h4>
+<h4><a href="https://lucasgabriell97.github.io/evento-mapadev-week/" target="_blank">Clique para visitar o projeto</a></h4>
