@@ -1,16 +1,21 @@
 <h1 align="center">
-  💻<br>Evento Mapadev Week
+  💻<br>Agência XPTO
 </h1>
 
-<p align="center">Realizado pelo canal <strong>Dev em Dobro</strong></p>
+<div align="center">
+  <img src="./src/images/project-image.png" alt="Design preview for the Agência XPTO">
+</div>
 
-## Sobre o evento
+<h4 align="center"><a href="https://receita-waffle-classico.vercel.app/" target="_blank">Clique para visitar o projeto</a></h4>
 
-A intenção do evento foi disponibilizar um mapa para devs iniciantes, dando um passo a passo do que é necessário aprender para conquistar a primeira vaga como front-end em até 7 
-meses. Mesmo eu já tendo a base, esse evento foi muito útil, pois vai me ajudar a dar meus próximos passos. 🚀
+## 📚 Sobre o projeto
 
-## Projeto
+Projeto realizado no evento <strong>Mapa Dev Week</strong> pelo canal <strong>Dev em Dobro.</strong> A intenção do evento foi disponibilizar um mapa para devs iniciantes, dando um passo a passo do que é necessário aprender para conquistar a primeira vaga como front-end em até 7 meses. Mesmo já tendo a base, esse evento foi muito útil, pois vai me ajudar a dar meus próximos passos nas tecnologias Front-end. 🚀
 
-Durante o evento foi desenvolvido um projeto de uma landing page, usando HTML, CSS e JavaScript.
+Durante o evento foi desenvolvido uma simples projeto de uma landing page.
 
-<h4><a href="https://lucasgabriell97.github.io/evento-mapadev-week/" target="_blank">Clique para visitar o projeto</a></h4>
+## 🛠️ Tecnologias utilizadas
+
+• HTML<br>
+• CSS<br>
+• JavaScript<br>
